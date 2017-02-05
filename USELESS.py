@@ -8,7 +8,7 @@
 import lib
 import time
 import random
-impport string
+import string
 
 cancer = False
 money = True
